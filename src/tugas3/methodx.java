@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @author User
  */
 public class methodx {
-   /* public double luas_lingkaran(int diameter) {
+    public double luas_lingkaran(int diameter) {
         int jari2 = diameter/2;
         double luas = Math.PI * Math.pow(jari2,2);
         return luas;
@@ -18,8 +18,8 @@ public class methodx {
         methodx mt = new methodx();
         System.out.println(mt.luas_lingkaran(20));
         System.exit(0);
-    }*/
-    public double volume_tabung(double tinggi, int jari2){
+    }
+  /*  public double volume_tabung(double tinggi, int jari2){
         return tinggi + jari2;
     }
     public static void main(String[] args) {
@@ -39,5 +39,5 @@ public class methodx {
         //output
         System.out.println(vt);
                
-    }
+    }*/
 }
